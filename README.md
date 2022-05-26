@@ -1,4 +1,4 @@
-# 비 온 뒤 단단해지는 땅처럼
+# 비 온 뒤 단단해지는 땅처럼🌱
 
 ## 🌱Introduce
 <img src="./bdd_logo.svg" width="100">
